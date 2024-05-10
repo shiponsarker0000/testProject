@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">anusol islma video</string>
+    <string name="text"> Show date </string>
+    <string name="buttontext"> Show Time </string>
+    <string name="button2"> Save Data </string>
+
+
+</resources>
